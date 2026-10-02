@@ -12,3 +12,4 @@ C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\refint\Lab02-Izma
 C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.pdb
 C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.genruntimeconfig.cache
 C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\ref\Lab02-Izmailov.dll
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.sourcelink.json
