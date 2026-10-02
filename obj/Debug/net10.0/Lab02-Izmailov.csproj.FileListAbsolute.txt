@@ -1,0 +1,14 @@
+C:\Users\Student_11\Documents\Lab02-Izmailov\bin\Debug\net10.0\Lab02-Izmailov.exe
+C:\Users\Student_11\Documents\Lab02-Izmailov\bin\Debug\net10.0\Lab02-Izmailov.deps.json
+C:\Users\Student_11\Documents\Lab02-Izmailov\bin\Debug\net10.0\Lab02-Izmailov.runtimeconfig.json
+C:\Users\Student_11\Documents\Lab02-Izmailov\bin\Debug\net10.0\Lab02-Izmailov.dll
+C:\Users\Student_11\Documents\Lab02-Izmailov\bin\Debug\net10.0\Lab02-Izmailov.pdb
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.AssemblyInfoInputs.cache
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.AssemblyInfo.cs
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.csproj.CoreCompileInputs.cache
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.dll
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\refint\Lab02-Izmailov.dll
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.pdb
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\Lab02-Izmailov.genruntimeconfig.cache
+C:\Users\Student_11\Documents\Lab02-Izmailov\obj\Debug\net10.0\ref\Lab02-Izmailov.dll
